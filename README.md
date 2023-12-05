@@ -8,3 +8,7 @@ The Behavioral Risk Factor Surveillance System (BRFSS) represents a collaborativ
 BRFSS's primary mission is to gather consistent, state-specific data pertaining to health risk behaviors, chronic diseases and conditions, healthcare accessibility, and the utilization of preventive health services associated with the primary causes of mortality and disability in the United States. BRFSS administers surveys to individuals aged 18 and above via both landline and mobile phones.
 
 In 2015, BRFSS examined various critical aspects, including health status and the number of healthy days, physical activity, sleep adequacy, chronic health conditions, oral health, tobacco consumption, diabetes screenings, and the availability of healthcare services.
+
+BRFSS 2015 Codebook: https://www.cdc.gov/brfss/annual_data/2015/pdf/codebook15_llcp.pdf
+
+Relevant Research Paper using BRFSS for Diabetes ML: https://www.cdc.gov/pcd/issues/2019/19_0109.htm
